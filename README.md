@@ -23,3 +23,6 @@ You can click the Preview link to take a look at your changes.
 </p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=chetanachaudhary&show_icons=true&locale=en&layout=compact" alt="chetanachaudhary" /></p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=chetanachaudhary&label=Profile%20views&color=0e75b6&style=flat" alt="chetanachaudhary" /> </p>
+
