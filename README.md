@@ -25,7 +25,7 @@ You can click the Preview link to take a look at your changes.
 <a href="https://linkedin.com/in/chetana-chaudhary" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chetana-chaudhary" height="30" width="40" /></a>
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=chetanachaudhary&show_icons=true&locale=en&layout=compact" alt="chetanachaudhary" /></p>
+
 
 
 
